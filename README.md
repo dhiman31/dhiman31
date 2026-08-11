@@ -1,5 +1,5 @@
 # About Me:
-💻 Backend Developer passionate about building scalable and efficient systems  <br>🔧 Built microservices using Node.js, Express, RabbitMQ & AWS  <br>🤝 Open to collaborating on backend, system design, and real-world projects  <br>🆘 Exploring distributed systems, caching, and system scalability  <br>🌱 Currently learning DevOps, Docker, CI/CD pipelines, and cloud infrastructure  <br>💬 Ask me about DSA (400+ problems), REST APIs, JWT Auth, and databases  <br>⚡ Fun fact: I enjoy optimizing systems and reducing latency 🚀
+💻 Backend Developer passionate about building scalable and efficient systems  <br>🔧 Built microservices using Node.js, Express, RabbitMQ & AWS  <br>🤝 Open to collaborating on backend, system design, and real-world projects  <br>🆘 Exploring distributed systems, caching, and system scalability  <br>🌱 Currently learning DevOps, Docker, CI/CD pipelines, and cloud infrastructure  <br>💬 Ask me about DSA (500+ problems), REST APIs, JWT Auth, and databases  <br>⚡ Fun fact: I enjoy optimizing systems and reducing latency 🚀
 
 
 ## 🌐 Socials:
